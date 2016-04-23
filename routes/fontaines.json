@@ -1,0 +1,1156 @@
+{
+  "FONTAINES": [
+    {
+      "DESCRIPTION": "Parc D'Iberville",
+      "NO_CIVIQUE": "600",
+      "RUE": "1er, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "1re Avenue/des Peupliers Ouest",
+      "NO_CIVIQUE": null,
+      "RUE": "1re Avenue / coin S-O intersection des Peupliers Ouest",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "1er Avenue/Des Saules",
+      "NO_CIVIQUE": null,
+      "RUE": "1re, Avenue / coin N-E intersection des Saules",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Gérard-Marchand",
+      "NO_CIVIQUE": "2740",
+      "RUE": "2e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Gérard-Marchand",
+      "NO_CIVIQUE": "2740",
+      "RUE": "2e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place Sylvain-Lelièvre",
+      "NO_CIVIQUE": "850",
+      "RUE": "4e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Ferland",
+      "NO_CIVIQUE": "1600",
+      "RUE": "8e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Ferland",
+      "NO_CIVIQUE": "1600",
+      "RUE": "8e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Ferland",
+      "NO_CIVIQUE": "1600",
+      "RUE": "8e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc-école Saint-Paul-Apôtre",
+      "NO_CIVIQUE": "2352",
+      "RUE": "8e, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Côte d'Abraham/Escalier de la Chapelle",
+      "NO_CIVIQUE": null,
+      "RUE": "Abraham, Côte d' / Ouest du 718",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Bardy",
+      "NO_CIVIQUE": "2025",
+      "RUE": "Adjutor-Rivard, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Bardy (terrain de tennis)",
+      "NO_CIVIQUE": "2025",
+      "RUE": "Adjutor-Rivard, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Bardy (terrain de tennis)",
+      "NO_CIVIQUE": "2025",
+      "RUE": "Adjutor-Rivard, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc des Franciscains",
+      "NO_CIVIQUE": "733",
+      "RUE": "Alverne, Avenue de l'",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Lionel-Bertrand",
+      "NO_CIVIQUE": null,
+      "RUE": "Ardennes, Rue des / face au 1150",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc des Saints-Martyrs",
+      "NO_CIVIQUE": "950",
+      "RUE": "Calixa-Lavallée, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc des Saints-Martyrs",
+      "NO_CIVIQUE": "950",
+      "RUE": "Calixa-Lavallée, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Stade Municipal",
+      "NO_CIVIQUE": "100",
+      "RUE": "Cardinal-Maurice-Roy, Rue du",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Stade Municipal",
+      "NO_CIVIQUE": "100",
+      "RUE": "Cardinal-Maurice-Roy, Rue du",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Notre-Dame-de-la-Garde",
+      "NO_CIVIQUE": "488",
+      "RUE": "Champlain, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "22 Boulevard Champlain",
+      "NO_CIVIQUE": "22",
+      "RUE": "Champlain, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Réducteur de pression Champlain P114",
+      "NO_CIVIQUE": "550",
+      "RUE": "Champlain, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place de l'Université-du-Québec",
+      "NO_CIVIQUE": null,
+      "RUE": "Charest Est, Boulevard / coin S-E intersection de la Couronne",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Couillard",
+      "NO_CIVIQUE": "13",
+      "RUE": "Couillard, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Jardin de Saint-Roch",
+      "NO_CIVIQUE": null,
+      "RUE": "Couronne, Rue de la / intersection De Saint-Vallier Est",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Jardin de Saint-Roch",
+      "NO_CIVIQUE": null,
+      "RUE": "Couronne, Rue de la / intersection De Saint-Vallier Est",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place de l'Hôtel-de-Ville",
+      "NO_CIVIQUE": null,
+      "RUE": "De Buade, Rue / coin N-O intersection rue Sainte-Famille",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de la Côte Sauvageau",
+      "NO_CIVIQUE": null,
+      "RUE": "De Mazenod, Rue /extrémité Sud",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Pavillon Edmond-Gagnon, 1395, D'Estimauville, Avenue",
+      "NO_CIVIQUE": "1395",
+      "RUE": "D'estimauville, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de Saint-Sacrement (pavillon de la piscine)",
+      "NO_CIVIQUE": "1360",
+      "RUE": "Entente, Boulevard de l'",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de Saint-Sacrement",
+      "NO_CIVIQUE": "1360",
+      "RUE": "Entente, Boulevard de l'",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Lairet",
+      "NO_CIVIQUE": "171",
+      "RUE": "Eugène-Lamontagne, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Notre-Dame-de-Bellevue",
+      "NO_CIVIQUE": null,
+      "RUE": "Gérard-Morisset, Rue / près du 365",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc du Musée (bâtiment des filtres)",
+      "NO_CIVIQUE": "255",
+      "RUE": "Grande-Allée Ouest",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Pavillon Parc du Musée",
+      "NO_CIVIQUE": "255",
+      "RUE": "Grande-Allée Ouest",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Holland/Sainte-Foy",
+      "NO_CIVIQUE": null,
+      "RUE": "Holland, Avenue / coin S-E intersection Chemin Sainte-Foy",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de l'Anse-à-Cartier",
+      "NO_CIVIQUE": "21",
+      "RUE": "Jacques-Cartier, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Victoria",
+      "NO_CIVIQUE": null,
+      "RUE": "Maréchaussée, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Victoria",
+      "NO_CIVIQUE": null,
+      "RUE": "Maréchaussée, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Victoria",
+      "NO_CIVIQUE": null,
+      "RUE": "Maréchaussée, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Victoria (bloc sanitaire)",
+      "NO_CIVIQUE": null,
+      "RUE": "Maréchaussée, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Victoria",
+      "NO_CIVIQUE": null,
+      "RUE": "Maréchaussée, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Pavillon Parc Roger-Lemelin",
+      "NO_CIVIQUE": "548",
+      "RUE": "Montmagny, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Domaine Maizerets",
+      "NO_CIVIQUE": "2000",
+      "RUE": "Montmorency, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Domaine Maizerets",
+      "NO_CIVIQUE": "2000",
+      "RUE": "Montmorency, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Domaine Maizerets",
+      "NO_CIVIQUE": "2000",
+      "RUE": "Montmorency, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Domaine Maizerets",
+      "NO_CIVIQUE": "2000",
+      "RUE": "Montmorency, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc canin de la Pente-Douce",
+      "NO_CIVIQUE": null,
+      "RUE": "Pente-Douce, Côte de la / extrémité Ouest de la rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Félix-Leclerc",
+      "NO_CIVIQUE": null,
+      "RUE": "Petit-Champlaim, Rue du / face au 57",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Pavillon Parc Sainte-Odile",
+      "NO_CIVIQUE": "255",
+      "RUE": "Peupliers Ouest, Rue des",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Pointe-aux-Lièvres, Parc canin de la",
+      "NO_CIVIQUE": "51",
+      "RUE": "Pointe-aux-Lièvres, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de la Jeunesse",
+      "NO_CIVIQUE": "230",
+      "RUE": "Pont, Rue du",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Richelieu, Parc",
+      "NO_CIVIQUE": null,
+      "RUE": "Richelieu, Rue / face au 575",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place d'Armes",
+      "NO_CIVIQUE": null,
+      "RUE": "Sainte-Anne, Rue / intersection Rue du Fort",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Lucien-Borne",
+      "NO_CIVIQUE": "100",
+      "RUE": "Sainte-Foy, Chemein",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "St-Jean/St-Stanislas",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Jean, Rue / coin N-O de l'intersection Saint-Stanislas",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "St-Jean/du Palais",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Jean, Rue / coin N-O intersection Côte du Palais",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "755 Saint-Jean",
+      "NO_CIVIQUE": "755",
+      "RUE": "Saint-Jean, Rue / en face de la bibliothèque",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place du Faubourg",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Jean, Rue / intersection N-E Rue Turnbull",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place D'Youville",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Jean, Rue / intersection Rue d'Youville",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "St-Paul/Vaisseaux-du-Roi",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Paul, Rue / coin S-O intersection  Vaisseaux-du-Roi",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Place de la Gare",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Paul, Rue / intersection Abraham-Martin",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Durocher",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Valier Ouest, Rue / face au 344",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Général-Vanier",
+      "NO_CIVIQUE": null,
+      "RUE": "Saint-Vallier Ouest, Rue / face au 939",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc linéaire de la Rivière-Saint-Charles ",
+      "NO_CIVIQUE": null,
+      "RUE": "Trois-Mâts, Rue des / au Nord de la piste cyclable",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Dollard-des-Ormeaux",
+      "NO_CIVIQUE": "320",
+      "RUE": "Verdun, Rue de",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Dollard-des-Ormeaux",
+      "NO_CIVIQUE": "320",
+      "RUE": "Verdun, Rue de",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Dollard-des-Ormeaux (bâtiment des filtres)",
+      "NO_CIVIQUE": "320",
+      "RUE": "Verdun, Rue de",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-André",
+      "NO_CIVIQUE": "2155",
+      "RUE": "Bastien, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-André",
+      "NO_CIVIQUE": "2155",
+      "RUE": "Bastien, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc des Brumes",
+      "NO_CIVIQUE": "6920",
+      "RUE": "Brumes, Rue des",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de Duberger",
+      "NO_CIVIQUE": "3050",
+      "RUE": "Central, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de Duberger",
+      "NO_CIVIQUE": "3050",
+      "RUE": "Central, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Chauveau",
+      "NO_CIVIQUE": "3175",
+      "RUE": "Chauveau, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Chauveau",
+      "NO_CIVIQUE": "3175",
+      "RUE": "Chauveau, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Chauveau",
+      "NO_CIVIQUE": "3175",
+      "RUE": "Chauveau, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Pavillon Parc Chauveau",
+      "NO_CIVIQUE": "3175",
+      "RUE": "Chauveau, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Sainte-Monique",
+      "NO_CIVIQUE": "3725",
+      "RUE": "Chevalier, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Aréna Gaétan-Duchesne, 2650, D'Alembert, Avenue",
+      "NO_CIVIQUE": "2650",
+      "RUE": "D'Alembert, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc J.-B.-Lafrance",
+      "NO_CIVIQUE": "4075",
+      "RUE": "Maria-Goretti, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Îlot Complexe de soccer Chauveau",
+      "NO_CIVIQUE": "7200",
+      "RUE": "Ormière, Boulevard de l'",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Gérard-Barber",
+      "NO_CIVIQUE": "3970",
+      "RUE": "Père-Lelièvre, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc de l'Accueil",
+      "NO_CIVIQUE": null,
+      "RUE": "Primevères, Rue des / face au 2937",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Prévert",
+      "NO_CIVIQUE": "1475",
+      "RUE": "Virginia-Woolf, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Prévert",
+      "NO_CIVIQUE": "1475",
+      "RUE": "Virginia-Woolf, Avenue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Victorin-Beaucage",
+      "NO_CIVIQUE": "380",
+      "RUE": "Beaucage, Rue",
+      "ANC_VILLE": "Vanier"
+    },
+    {
+      "DESCRIPTION": "Parc Alphonse-Lacoursière",
+      "NO_CIVIQUE": null,
+      "RUE": "Henri-Landry, Rue / face au 199",
+      "ANC_VILLE": "Vanier"
+    },
+    {
+      "DESCRIPTION": "Parc des Potiers",
+      "NO_CIVIQUE": "4333",
+      "RUE": "Bégin, Rue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Les Sources",
+      "NO_CIVIQUE": "1140",
+      "RUE": "Capitaine-Bernier, Rue du",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc des Écores",
+      "NO_CIVIQUE": "4001",
+      "RUE": "Charles-A.-Roy, Rue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Fénelon",
+      "NO_CIVIQUE": "1260",
+      "RUE": "Fénlélon, Rue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Terrains de soccer du Foulon",
+      "NO_CIVIQUE": "2349",
+      "RUE": "Foulon, Chemin du",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc des Seigneuries",
+      "NO_CIVIQUE": "1128",
+      "RUE": "Gustave-Langelier, Rue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Champigny",
+      "NO_CIVIQUE": "1836",
+      "RUE": "Jules-Verne, Avenue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Nautique de Cap-Rouge",
+      "NO_CIVIQUE": "4155",
+      "RUE": "Plage-Jacques-Cartier, Chemin de la",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc du Plateau",
+      "NO_CIVIQUE": "4575",
+      "RUE": "Promenade-des-Sœurs, Rue de la",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Provancher",
+      "NO_CIVIQUE": "1425",
+      "RUE": "Provancher, Rue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Jean-Déry",
+      "NO_CIVIQUE": "4227",
+      "RUE": "Saint-Félix, Rue",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Cartier-Roberval",
+      "NO_CIVIQUE": "4075",
+      "RUE": "Saint-Louis, Chemin",
+      "ANC_VILLE": "Cap-Rouge"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Mathieu",
+      "NO_CIVIQUE": "1000",
+      "RUE": "Bar-le-Duc, Rue de",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Jean-Baptiste-de-La-Salle",
+      "NO_CIVIQUE": "2608",
+      "RUE": "Biencourt, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Capitaine J.-E.-Bernier",
+      "NO_CIVIQUE": "889",
+      "RUE": "Bourgogne, Avenue de",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Trois-Saisons (section NORD)",
+      "NO_CIVIQUE": "1390",
+      "RUE": "Buffon, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc du Campanile",
+      "NO_CIVIQUE": "3696",
+      "RUE": "Campanile, Rue du",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Joseph-Olivier-Chauveau, Parc",
+      "NO_CIVIQUE": "5743",
+      "RUE": "Chauveau Ouest, Boulevard",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Clérin",
+      "NO_CIVIQUE": "3400",
+      "RUE": "Clérin, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc des Compagnons",
+      "NO_CIVIQUE": "3643",
+      "RUE": "Compagnons, Avenue des",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Sainte-Geneviève",
+      "NO_CIVIQUE": "3200",
+      "RUE": "D'Amours, Avenue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Robitaille",
+      "NO_CIVIQUE": "1585",
+      "RUE": "De La Peltrie, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Terrain de soccer De Rochebelle",
+      "NO_CIVIQUE": "1095",
+      "RUE": "De Rochebelle, Avenue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Destor",
+      "NO_CIVIQUE": "3797",
+      "RUE": "Destor, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Les Primevères",
+      "NO_CIVIQUE": "1465",
+      "RUE": "Félix-Antoine-Savard, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Gingras, Parc",
+      "NO_CIVIQUE": "700",
+      "RUE": "Gingras, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Yves",
+      "NO_CIVIQUE": "2544",
+      "RUE": "Gregg, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Yves",
+      "NO_CIVIQUE": "2544",
+      "RUE": "Gregg, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Claude-Germain",
+      "NO_CIVIQUE": "200",
+      "RUE": "Huot, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Claude-Germain",
+      "NO_CIVIQUE": "200",
+      "RUE": "Huot, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Notre-Dame-de-Foy",
+      "NO_CIVIQUE": "771",
+      "RUE": "Jacques-Berthiaume, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Denys",
+      "NO_CIVIQUE": "980",
+      "RUE": "Joli-Bois, Rue du",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Denys",
+      "NO_CIVIQUE": "980",
+      "RUE": "Joli-Bois, Rue du",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Base de plein-air de Sainte-Foy",
+      "NO_CIVIQUE": "3137",
+      "RUE": "Laberge, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Lavigerie",
+      "NO_CIVIQUE": null,
+      "RUE": "Lavigerie, Avenue / coin S-E intersection Hochelaga",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Le May",
+      "NO_CIVIQUE": "1455",
+      "RUE": "Le May, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Malraux",
+      "NO_CIVIQUE": "108",
+      "RUE": "Malraux, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Sainte-Isabelle, Parc",
+      "NO_CIVIQUE": "3000",
+      "RUE": "Matapédia, Rue de la",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Montrénault, Parc",
+      "NO_CIVIQUE": "3967",
+      "RUE": "Montréneault, Rue ",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Raymond-De Rosa",
+      "NO_CIVIQUE": "3251",
+      "RUE": "Neilson, Boulevard",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Nérée-Tremblay, Parc",
+      "NO_CIVIQUE": "764",
+      "RUE": "Nérée-Tremblay, Avenue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc de Norvège",
+      "NO_CIVIQUE": "640",
+      "RUE": "Norvège, Avenue de",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Myrand",
+      "NO_CIVIQUE": "844",
+      "RUE": "Paradis, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc de la Plage-Jacques-Cartier (Section EST)",
+      "NO_CIVIQUE": "3636",
+      "RUE": "Pavillon, Chemin du ",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Centre de loisirs Pie-XII",
+      "NO_CIVIQUE": "909",
+      "RUE": "Pie-XII, Boulevard",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Pommeraie, Parc de la",
+      "NO_CIVIQUE": null,
+      "RUE": "Pommeraie, Rue de la / près du 932",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Benoît",
+      "NO_CIVIQUE": "3460",
+      "RUE": "Rochambeau, Rue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Roland-Beaudin",
+      "NO_CIVIQUE": "929",
+      "RUE": "Roland-Beaudin, Avenue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Centre sportif de Sainte-Foy",
+      "NO_CIVIQUE": "930",
+      "RUE": "Roland-Beaudin, Avenue",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Ange",
+      "NO_CIVIQUE": "1545",
+      "RUE": "Saint-Ange, Rang",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "U.T.E.P. de Sainte-Foy P301",
+      "NO_CIVIQUE": "3825",
+      "RUE": "Sainte-Foy, Chemein",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Maison Hamel-Bruneau",
+      "NO_CIVIQUE": "2608",
+      "RUE": "Saint-Louis, Chemin",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Louis-de-France",
+      "NO_CIVIQUE": "1591",
+      "RUE": "Sieur-D'Argenteuil, Rue du",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Versand-Nord/Port-Royal",
+      "NO_CIVIQUE": null,
+      "RUE": "Versant-Nord, Boulevard / face à Port-Royal",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Centre communautaire Champigny",
+      "NO_CIVIQUE": "7519",
+      "RUE": "Wilfrid-Hamel, Boulevard",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Terrain de soccer Champigny",
+      "NO_CIVIQUE": "7519",
+      "RUE": "Wilfrid-Hamel, Boulevard",
+      "ANC_VILLE": "Sainte-Foy"
+    },
+    {
+      "DESCRIPTION": "Stationnement Champlain/Gilmour",
+      "NO_CIVIQUE": "1101",
+      "RUE": "Champlain, Boulevard",
+      "ANC_VILLE": "Sillery"
+    },
+    {
+      "DESCRIPTION": "Parc de la Falaise",
+      "NO_CIVIQUE": "1615",
+      "RUE": "Gignac, Côte à",
+      "ANC_VILLE": "Sillery"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Michel",
+      "NO_CIVIQUE": "2020",
+      "RUE": "Narcisse-Roy, Rue",
+      "ANC_VILLE": "Sillery"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Charles-Garnier",
+      "NO_CIVIQUE": "1730",
+      "RUE": "Sheppard, Rue",
+      "ANC_VILLE": "Sillery"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Charles-Garnier",
+      "NO_CIVIQUE": "1730",
+      "RUE": "Sheppard, Rue",
+      "ANC_VILLE": "Sillery"
+    },
+    {
+      "DESCRIPTION": "Parc Henri-Casault",
+      "NO_CIVIQUE": "5395",
+      "RUE": "4e Ouest, Avenue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Patro Charlesbourg (section SUD)",
+      "NO_CIVIQUE": null,
+      "RUE": "5e Est, Avenue / extrémité Est de la 75e Rue Est",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc de la Terrasse Bon-Air",
+      "NO_CIVIQUE": "1085",
+      "RUE": "60e Est, Rue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc de la Terrasse Bon-Air",
+      "NO_CIVIQUE": "1085",
+      "RUE": "60e Est, Rue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Jérôme (section NORD)",
+      "NO_CIVIQUE": "585",
+      "RUE": "64e Est, Rue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Bon-Pasteur",
+      "NO_CIVIQUE": "395",
+      "RUE": "Bienheureux-Jean-XXIII, Rue du",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Guillaume-Mathieu",
+      "NO_CIVIQUE": "617",
+      "RUE": "Hélène-Paradis, Avenue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Guillaume-Mathieu",
+      "NO_CIVIQUE": "617",
+      "RUE": "Hélène-Paradis, Avenue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Guillaume-Mathieu",
+      "NO_CIVIQUE": "617",
+      "RUE": "Hélène-Paradis, Avenue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Maurice-Dorion",
+      "NO_CIVIQUE": "8805",
+      "RUE": "Jean-Paquin, Avenue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Maurice-Lortie",
+      "NO_CIVIQUE": "4725",
+      "RUE": "Loisirs, Avenue des",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Bourg-Royal",
+      "NO_CIVIQUE": "1435",
+      "RUE": "Louis-XIV, Boulevard",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Lyonnais",
+      "NO_CIVIQUE": "1158",
+      "RUE": "Lyonnais, Rue du",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Maria-Goretti",
+      "NO_CIVIQUE": "7475",
+      "RUE": "Paul-Comtois, Avenue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Viateur",
+      "NO_CIVIQUE": "705",
+      "RUE": "Saint-Viateur, Rue",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Îlot Arpidrome",
+      "NO_CIVIQUE": "750",
+      "RUE": "Sorbonne, Rue de la",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Pierre",
+      "NO_CIVIQUE": "5295",
+      "RUE": "Violettes, Rue des",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Pierre",
+      "NO_CIVIQUE": "5295",
+      "RUE": "Violettes, Rue des",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Pierre",
+      "NO_CIVIQUE": "5295",
+      "RUE": "Violettes, Rue des",
+      "ANC_VILLE": "Charlesbourg"
+    },
+    {
+      "DESCRIPTION": "Parc Boisvert",
+      "NO_CIVIQUE": null,
+      "RUE": "Boisvert, Rue / extrémité Sud",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Centre de loisirs Cambert",
+      "NO_CIVIQUE": "280",
+      "RUE": "Cambert, Rue",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Terrain de soccer Ouest Royal-Saint-David",
+      "NO_CIVIQUE": "3500",
+      "RUE": "Cambronne, Rue",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-David",
+      "NO_CIVIQUE": "3490",
+      "RUE": "Cambronne, Rue",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Parc du Fargy",
+      "NO_CIVIQUE": "653",
+      "RUE": "Chutes, Boulevard des",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Parc La Bourrasque",
+      "NO_CIVIQUE": "3320",
+      "RUE": "Mallet, Avenue",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Parc Montmorency",
+      "NO_CIVIQUE": "4551",
+      "RUE": "Sainte-Anne, Boulevard",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Parc Vachon",
+      "NO_CIVIQUE": "35",
+      "RUE": "Vachon, Rue",
+      "ANC_VILLE": "Beauport"
+    },
+    {
+      "DESCRIPTION": "Parc Paul-Émile-Beaulieu",
+      "NO_CIVIQUE": "530",
+      "RUE": "Delage, Rue",
+      "ANC_VILLE": "Lac-Saint-Charles"
+    },
+    {
+      "DESCRIPTION": "Îlot Édifice des chevaliers de Colomb",
+      "NO_CIVIQUE": "1506",
+      "RUE": "Lac-Saint-Charles, Avenue du",
+      "ANC_VILLE": "Lac-Saint-Charles"
+    },
+    {
+      "DESCRIPTION": "Parc Phil-Latulippe",
+      "NO_CIVIQUE": "150",
+      "RUE": "Étudiants, Boulevard des",
+      "ANC_VILLE": "Loretteville"
+    },
+    {
+      "DESCRIPTION": "Parc du Château-D'eau",
+      "NO_CIVIQUE": "3165",
+      "RUE": "Golf, Rue du",
+      "ANC_VILLE": "Loretteville"
+    },
+    {
+      "DESCRIPTION": "Parc de Montchâtel",
+      "NO_CIVIQUE": "13550",
+      "RUE": "Duhamel, Rue",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Saint-Raphaël",
+      "NO_CIVIQUE": "3535",
+      "RUE": "Rivière-Nelson, Rue de la",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc des Musiciens",
+      "NO_CIVIQUE": "12155",
+      "RUE": "Saint-Claude, Boulevard",
+      "ANC_VILLE": "Québec"
+    },
+    {
+      "DESCRIPTION": "Parc Réal-Cloutier",
+      "NO_CIVIQUE": "6106",
+      "RUE": "Accueil, Rue de l'",
+      "ANC_VILLE": "Saint-Émile"
+    },
+    {
+      "DESCRIPTION": "Parc Réal-Cloutier",
+      "NO_CIVIQUE": "6106",
+      "RUE": "Accueil, Rue de l'",
+      "ANC_VILLE": "Saint-Émile"
+    },
+    {
+      "DESCRIPTION": "Parc Réal-Cloutier",
+      "NO_CIVIQUE": "6106",
+      "RUE": "Accueil, Rue de l'",
+      "ANC_VILLE": "Saint-Émile"
+    },
+    {
+      "DESCRIPTION": "Bâtiment de service Parc de la Grande-Oasis",
+      "NO_CIVIQUE": "1920",
+      "RUE": "Tricornes, Rue des",
+      "ANC_VILLE": "Saint-Émile"
+    },
+    {
+      "DESCRIPTION": "Parc Adagio",
+      "NO_CIVIQUE": null,
+      "RUE": "Adagio, Rue / face au 1290",
+      "ANC_VILLE": "Val-Bélair"
+    },
+    {
+      "DESCRIPTION": "Parc La Chanterelle",
+      "NO_CIVIQUE": "1525",
+      "RUE": "Innovation, Rue de l'",
+      "ANC_VILLE": "Val-Bélair"
+    },
+    {
+      "DESCRIPTION": "Parc La Chanterelle",
+      "NO_CIVIQUE": "1525",
+      "RUE": "Innovation, Rue de l'",
+      "ANC_VILLE": "Val-Bélair"
+    },
+    {
+      "DESCRIPTION": "Parc La Chanterelle",
+      "NO_CIVIQUE": "1525",
+      "RUE": "Innovation, Rue de l'",
+      "ANC_VILLE": "Val-Bélair"
+    },
+    {
+      "DESCRIPTION": "Parc Base de plein air La Découverte",
+      "NO_CIVIQUE": "1560",
+      "RUE": "Montagne Ouest, Avenue de la",
+      "ANC_VILLE": "Val-Bélair"
+    }
+  ]
+}
